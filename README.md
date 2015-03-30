@@ -1,7 +1,7 @@
 # SpaceHopper
-Rhino/Grasshopper fun that deals with physical/virtual space
+Fun with Rhino/Grasshopper components that deal with physical/virtual space
 
-**RazerHydraObjectManipulation.gh**:
+### RazerHydraObjectManipulation.gh:
 
 **Requirements**: Razer Hydra, the [Hydra-OSC](https://github.com/MrMormon/hydra-osc) executable, Rhino/Grasshopper (with gHowl, Human, Starling plugins)
 
@@ -11,6 +11,14 @@ If nothing is selected, then by default the bumper button will place points in R
 
 NOTE: This component has some very helpful quaternion-to-rotation-matrix code that will be helpful when converting Razer Hydra / Oculus Rift rotation data in an accurate way.
 
+### OculusRiftGrasshopper.gh:
 
+(to come)
 
+### RhinoRift.gh:
 
+(to come)
+
+### RhinoLucidDreaming.gh:
+
+(to come)
