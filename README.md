@@ -9,6 +9,8 @@ Rhino/Grasshopper fun that deals with physical/virtual space
 
 If nothing is selected, then by default the bumper button will place points in Rhino space. These points will turn into a solid volume (via a 3d convex hull algorithm). Holding the 'trigger' button while pressing the button will place points that will turn into a negative volume, cutting out portions of the volume.
 
+NOTE: This component has some very helpful quaternion-to-rotation-matrix code that will be helpful when converting Razer Hydra / Oculus Rift rotation data in an accurate way.
+
 
 
 
