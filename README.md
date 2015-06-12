@@ -3,6 +3,8 @@ Fun with Rhino/Grasshopper components that deal with physical/virtual space
 
 ### RazerHydraObjectManipulation.gh:
 
+Video example: (https://www.youtube.com/watch?v=78NwF_lOjdA)
+
 **Requirements**: Razer Hydra, the [Hydra-OSC](https://github.com/MrMormon/hydra-osc) executable, Rhino/Grasshopper (with gHowl, Human, Starling plugins)
 
 **Description**: This component lets you select objects (Breps, Meshes, Points, Surfaces) with your mouse; once selected, you can use the left controller (and the 'bumper' button on the controller) of the Razer Hydra to move and place it elsewhere in Rhino space.
