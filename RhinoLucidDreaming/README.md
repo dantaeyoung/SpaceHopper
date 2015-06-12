@@ -11,7 +11,7 @@ Description & Instructions:
 
 Video example: (https://www.youtube.com/watch?v=1wqPbEoHS_Y)
 
-**Status**: Proof-of-concept (aka not-even-beta)
+**Status**: Proof-of-concept (aka not-even-beta). Disclaimer: this is more of a workflow than a tool; a series of programs strung together that have to work in concert. Your mileage may vary.
 
 **Requirements**: Windows (tested on Windows 7 so far), Oculus Rift (tested on DK2 only) w/ SDK installed, Rhino 5/Grasshopper (with Lunchbox plugin), [MozVR](http://mozvr.com/downloads/), Desktop-as-Webcam driver (e.g.: [Manycam](https://manycam.com/))
 
