@@ -1,5 +1,6 @@
 
-### RazerHydraObjectManipulation.gh:
+RazerHydraObjectManipulation.gh
+==========
 
 Video example: (https://www.youtube.com/watch?v=78NwF_lOjdA)
 
