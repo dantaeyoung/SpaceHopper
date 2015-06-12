@@ -1,6 +1,9 @@
 RhinoLucidDreaming:
 =================
 
+Description & Instructions:
+--------------------------
+
 ![screenshot](http://i.imgur.com/fatWKOd.png)
 
 Video example: (https://www.youtube.com/watch?v=1wqPbEoHS_Y)
@@ -36,3 +39,13 @@ This is VERY heavily based off of brianpeiris's [RiftSketch](https://github.com/
 7. In Rhino, minimize Grasshopper and arrange the Remote Control Panel so that the "SaveOBJ" button is visible.
 8. Start modeling in Rhino, in the Oculus/VR world. To update the VR world, click the 'SaveOBJ' button. You'll then have to move your mouse over to the WebVR window, click to change focus, then type `ALT-R`, which will trigger an OBJ refresh in the THREE.js environment.
 
+To-do:
+------
+
+- Use Websockets to make clicking 'SaveOBJ' in Grasshopper automatically trigger an OBJ reload.
+- Better yet, stream the OBJ data, or a diff of the OBJ to the THREE.js/WebVR environment
+- Instead of using the Manycam desktop-as-webcam hack, find a better way to automatically grab the desktop, or bundle it in a nicer way
+- Include support for OBJ materials - THREE.js [example here](http://threejs.org/examples/webgl_loader_obj_mtl.html).
+- Include support for lighting
+- Better yet, grab some existing THREE.js/Oculus-integrated 3d rendering platform, since all the THREE.js website is doing is displaying a 3d model (and a webcam screen)
+- Add a second screen for a webcam that shows the keyboard and your hands, like [this video by brianpeiris](https://www.youtube.com/watch?v=SKPYx4CEIlM)
