@@ -32,13 +32,13 @@ RhinoLucidDreaming uses the Oculus and a workflow to simulate the creation of an
 **Setup**: 
 
 1. Install Manycam or similar software. Manycam allows the desktop to be captured and simulated as a webcam. Set up your desktop as a webcam in the [Manycam settings](https://manycam.com/user_guide/#Desktop).
-2. Setup/plugin Oculus.
+2. Setup/plugin your Oculus Rift.
 3. Open Rhino/Grasshopper, and open `RhinoRiftSketch - LucidDreaming.3dm` and `RhinoRiftSketch - LucidDreaming.ghx` in the `rhinograsshopper/` directory. In Grasshopper, enable the '[Remote Control Panel](http://www.grasshopper3d.com/video/remote-control-panel)' in the 'View' menu.
-4. Run Mongoose (included in the repo) to create a local webserver to access RhinoRiftSketch directory as a webserver. By default, the directory should be exposed at http://localhost:8080
+4. Run Mongoose (included in the repo) to create a local webserver to access RhinoRiftSketch directory as a webserver. By default, the directory should be exposed at `http://localhost:8080`
 5. Install/Launch MozVR instance, navigate to website. MozVR should ask you for permission to view your webcam. Say 'yes', and make sure to direct it to use the Manycam webcam instance. Type `Alt-V` to enter into fullscreen.
 6. In the Oculus, you should now see a working 3d environment, with head-tracking and rotation handled by MozVR. A window with your desktop should be floating in front of you. Make Rhino full screen in that desktop.
-7. In Rhino, minimize Grasshopper and arrange the Remote Control Panel so that the "SaveOBJ" button is visible.
-8. Start modeling in Rhino, in the Oculus/VR world. To update the VR world, click the 'SaveOBJ' button. You'll then have to move your mouse over to the WebVR window, click to change focus, then type `ALT-R`, which will trigger an OBJ refresh in the THREE.js environment.
+7. In Rhino, minimize Grasshopper and arrange the Remote Control Panel so that the `SaveOBJ` button is visible.
+8. Start modeling in Rhino, in the Oculus/VR world. To update the VR world, click the `SaveOBJ` button. You'll then have to move your mouse over to the WebVR window, click to change focus, then type `ALT-R`, which will trigger an OBJ refresh in the THREE.js environment.
 
 To-do:
 ------
