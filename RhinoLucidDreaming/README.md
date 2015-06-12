@@ -1,7 +1,7 @@
 RhinoLucidDreaming:
 =================
 
-*This is VERY heavily based off of brianpeiris's [RiftSketch](https://github.com/brianpeiris/RiftSketch)*. 
+**This is VERY heavily based off of brianpeiris's [RiftSketch](https://github.com/brianpeiris/RiftSketch)!** 
 
 
 Description & Instructions:
