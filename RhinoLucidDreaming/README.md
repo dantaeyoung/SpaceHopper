@@ -45,7 +45,7 @@ To-do:
 - Use Websockets to make clicking 'SaveOBJ' in Grasshopper automatically trigger an OBJ reload.
 - Better yet, stream the OBJ data, or a diff of the OBJ to the THREE.js/WebVR environment
 - Instead of using the Manycam desktop-as-webcam hack, find a better way to automatically grab the desktop, or bundle it in a nicer way
+- Add a second screen for a webcam that shows the keyboard and your hands, like [this video by brianpeiris](https://www.youtube.com/watch?v=SKPYx4CEIlM)
 - Include support for OBJ materials - THREE.js [example here](http://threejs.org/examples/webgl_loader_obj_mtl.html).
 - Include support for lighting
 - Better yet, grab some existing THREE.js/Oculus-integrated 3d rendering platform, since all the THREE.js website is doing is displaying a 3d model (and a webcam screen)
-- Add a second screen for a webcam that shows the keyboard and your hands, like [this video by brianpeiris](https://www.youtube.com/watch?v=SKPYx4CEIlM)
