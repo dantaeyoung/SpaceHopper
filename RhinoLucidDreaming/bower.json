@@ -1,20 +1,21 @@
 {
-  "name": "RiftSketch",
+  "name": "RhinoLucidDreaming",
   "version": "0.0.0",
-  "homepage": "https://github.com/brianpeiris/RiftSketch",
+  "homepage": "https://github.com/provolot/SpaceHopper/RhinoLucidDreaming",
   "authors": [
-    "Brian Peiris <brianpeiris@gmail.com>"
+    "Dan Taeyoung <provolot@gmail.com>"
   ],
-  "description": "RiftSketch is a live-coding environment for VR.",
+  "description": "RhinoLucidDreaming is a live-modeling environment in Rhino, very heavily based on Brian Peiris's RiftSketch.",
   "keywords": [
     "VR",
     "Virtual Reality",
     "WebGL",
     "Three.js",
-    "Oculus Rift"
+    "Oculus Rift",
+	"Rhino",
+	"Grasshopper"
   ],
-  "license": "MIT",
-  "private": true,
+  "license": "GPL",
   "dependencies": {
     "bootstrap": "~3.2.0"
   }
