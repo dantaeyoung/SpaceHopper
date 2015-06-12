@@ -1,6 +1,8 @@
 RhinoLucidDreaming:
 =================
 
+![screenshot](http://i.imgur.com/fatWKOd.png)
+
 Video example: (https://www.youtube.com/watch?v=1wqPbEoHS_Y)
 
 **Status**: Proof-of-concept (aka not-even-beta)
@@ -21,7 +23,7 @@ Video example: (https://www.youtube.com/watch?v=1wqPbEoHS_Y)
 **Description 2**: 
 RhinoLucidDreaming uses the Oculus and a workflow to simulate the creation of an immersive Rhino modeling environment in which 3d modeling will modify the space around you.
 
-This is heavily based off of brianpeiris's [RiftSketch](https://github.com/brianpeiris/RiftSketch). 
+This is VERY heavily based off of brianpeiris's [RiftSketch](https://github.com/brianpeiris/RiftSketch). 
 
 **Setup**: 
 
